@@ -1,1 +1,1 @@
-Hi, I’m Brennan Dury, a fourth year student at UW.
+Hi, I’m Brennan Dury, a second year master's student in mathematics at UPenn.
