@@ -1,5 +1,6 @@
 # Hi, I'm Brennan 👋
 
+[![Website](https://img.shields.io/badge/Website-Personal_Site-success?logo=githubpages)](https://brennandury.github.io/)
 [![Email](https://img.shields.io/badge/Email-Contact-informational?logo=gmail)](mailto:brennandury@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/brennan-dury-8a8804224/)
 
