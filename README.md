@@ -10,7 +10,7 @@
 
 ## About Me 🧑‍💻
 
-I'm a Ph.D. student in mathematics at the University of Wisconsin - Madison and a machine learning researcher. In the projects below, I develop, evaluate, and optimize transformer designs for physical trajectory prediction and Bayesian models for cell-state differentiation and genomics.
+I'm a Ph.D. student in mathematics at the University of Wisconsin - Madison and a machine learning researcher. [Check out my website!](https://brennandury.github.io/)
 
 ---
 
