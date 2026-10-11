@@ -10,7 +10,7 @@
 
 ## About Me 🧑‍💻
 
-I'm a Ph.D. student in mathematics at the University of Wisconsin - Madison and a machine learning researcher. [Check out my website!](https://brennandury.github.io/)
+I'm a Ph.D. student in mathematics at the University of Wisconsin - Madison and a machine learning researcher. [Check out my website to see my research beyond code!](https://brennandury.github.io/)
 
 ---
 
